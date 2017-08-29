@@ -1,0 +1,34 @@
+[
+    {
+        "name": "mlb_2016",
+        "image": "/images/Mike_Trout_4.jpg",
+        "deck": [
+                {
+                    "name": "Mike Trout",
+                    "winsAboveReplacement": 9.4,
+                    "hits": 173,
+                    "runsBattedIn": 100,
+                    "avg": 0.315,
+                    "onBasePercentage": 0.441,
+                    "isolatedPower": 0.235,
+                    "battingAverageOnBallsInPlay": 0.371,
+                    "weightedOnBaseAverage": 0.418,
+                    "weightedRunsCreatedPlus": 171,
+                    "baseRunning": 9.3
+                },
+                {
+                    "name": "Kris Bryant",
+                    "winsAboveReplacement": 8.4,
+                    "hits": 176,
+                    "runsBattedIn": 102,
+                    "avg": 0.292,
+                    "onBasePercentage": 0.385,
+                    "isolatedPower": 0.262,
+                    "battingAverageOnBallsInPlay": 0.332,
+                    "weightedOnBaseAverage": 0.396,
+                    "weightedRunsCreatedPlus": 149,
+                    "baseRunning": 7.3
+                }
+        ]
+    }
+]
